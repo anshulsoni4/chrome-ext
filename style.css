@@ -1,0 +1,21 @@
+body {
+    width: 300px;
+    height: 300px;
+    background-color: rgb(187, 220, 248);
+    display: flex;
+    justify-content: center;
+}
+
+
+p {
+    
+    display: inner-flex;
+    margin: auto 12px;
+    font-size: 22px;
+    color: rgb(6, 93, 44);
+    border-radius: 12px;
+    border: 2px solid lightblue;
+    padding: 10px;
+    text-decoration: solid;
+    font-weight: bold;
+}

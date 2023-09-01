@@ -1,0 +1,15 @@
+{
+    "name" : "Dead Jokes",
+    "version" : "1.1.2",
+    "manifest_version" : 3,
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "deadJ.png"
+         
+    },
+    "icons": {
+        "128": "deadJ.png"
+    }
+    
+}
+
